@@ -13,3 +13,9 @@
 | 2026-11-07 21:30 | videos/2026-11-07_chatgpt-memoria.mp4 | TikTok | Programado en Metricool |
 | 2026-11-08 14:00 | videos/2026-11-08_famosos-inversion.mp4 | TikTok | Programado en Metricool |
 | 2026-11-08 19:00 | videos/2026-11-08_ley-deepfakes.mp4 | TikTok | Programado en Metricool |
+| 2026-11-13 10:00 | videos/2026-11-13_amazon-cadabra.mp4 | TikTok | Programado en Metricool |
+| 2026-11-13 18:00 | videos/2026-11-13_apple-ronald-wayne.mp4 | TikTok | Programado en Metricool |
+| 2026-11-14 10:00 | videos/2026-11-14_nintendo-cartas.mp4 | TikTok | Programado en Metricool |
+| 2026-11-14 18:00 | videos/2026-11-14_samsung-pescado.mp4 | TikTok | Programado en Metricool |
+| 2026-11-15 10:00 | videos/2026-11-15_lego-muebles.mp4 | TikTok | Programado en Metricool |
+| 2026-11-15 18:00 | videos/2026-11-15_nokia-papel.mp4 | TikTok | Programado en Metricool |
